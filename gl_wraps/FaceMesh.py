@@ -1,10 +1,7 @@
-import cv2
 import mediapipe as mp
 import pyvista
-from triangles import TexturedTriangle
-from util import *
-from Mesh import Mesh
-from MyLandmark import MyLandMark
+from gl_wraps.Mesh import Mesh
+from utils.MyLandmark import MyLandMark
 
 
 class FaceMesh(Mesh):

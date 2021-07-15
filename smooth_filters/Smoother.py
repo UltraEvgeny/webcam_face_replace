@@ -1,6 +1,4 @@
-import math
-import numpy as np
-from util import *
+from utils.util import *
 
 
 class Smoother:

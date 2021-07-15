@@ -1,7 +1,7 @@
-from util import *
-from FaceMesh import *
-from NoiseRemover import NoiseRemover
-from EventFrequencyCounter import EventFrequencyCounter
+from gl_wraps.FaceMesh import *
+from smooth_filters.NoiseRemover import NoiseRemover
+from utils.EventFrequencyCounter import EventFrequencyCounter
+from utils.util import *
 
 
 face_mesh_gl = FaceMesh(cv2.imread('pict/trump.jpg'))
