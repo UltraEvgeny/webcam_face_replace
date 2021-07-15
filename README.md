@@ -5,6 +5,7 @@ How it works:
 2) Get piture from webcamera, create mesh from it and retexture it according to mesh from (1)
 3) Draw this model using opengl and replace your face with created model.
 4) Do some color correction and smoothing, because FaceMesh meshes are twitchy.
-
+5) Repeat it. About 20 times per second on my notebook.
+ 
 How to run: main.py
 
