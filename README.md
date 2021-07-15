@@ -8,4 +8,4 @@ How it works:
 5) Repeat it. About 20 times per second on my notebook.
  
 How to run: main.py
-
+Example of faceswapping: trump_example.jpg
